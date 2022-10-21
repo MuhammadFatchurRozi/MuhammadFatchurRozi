@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![MuhammadFatchurRozi's github stats](https://github-readme-stats.vercel.app/api?username=MuhammadFatchurRozi&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
+<p><img width="125" src="https://komarev.com/ghpvc/?username=MuhammadFatchurRozi&style=flat-square" alt="MuhammadFatchurRozi" /></p>
