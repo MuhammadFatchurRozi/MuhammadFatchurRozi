@@ -19,3 +19,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFatchurRozi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <p><img width="125" src="https://komarev.com/ghpvc/?username=MuhammadFatchurRozi&style=flat-square" alt="MuhammadFatchurRozi" /></p>
+  <div> 
+    ![Snake animation](https://github.com/MuhammadFatchurRozi/MuhammadFatchurRozi/blob/output/github-contribution-grid-snake.svg)
+  </div>
