@@ -1,4 +1,3 @@
-<!--
 **MuhammadFatchurRozi/MuhammadFatchurRozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,9 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<!--
 <p align="center">
   <img width="125" src="https://komarev.com/ghpvc/?username=MuhammadFatchurRozi&style=flat-square" alt="MuhammadFatchurRozi" />
 </p>
@@ -30,4 +27,3 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/MuhammadFatchurRozi/MuhammadFatchurRozi/blob/output/github-contribution-grid-snake.svg)
   
 </div>
--->
